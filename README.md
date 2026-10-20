@@ -1,6 +1,6 @@
-#### Predicción del Riesgo de Diabetes mediante el Proceso KDD
+## Predicción del Riesgo de Diabetes mediante el Proceso KDD
 
-## Descripción del proyecto
+### Descripción del proyecto
 
 Este proyecto aplica el proceso **KDD (Knowledge Discovery in Databases)** para analizar datos de pacientes e identificar patrones asociados al riesgo de desarrollar diabetes. Mediante técnicas de minería de datos y un árbol de decisión, se construye un modelo de clasificación capaz de categorizar el riesgo de los pacientes en tres niveles: **Low (bajo), Moderate (moderado) y High (alto)**.
 
